@@ -1,0 +1,92 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+    font-family: sans-serif; 
+} 
+a{ 
+    text-decoration: none; 
+} 
+button{ 
+    border: none; 
+    cursor: pointer; 
+} 
+.container{ 
+    width: 80%; 
+    margin: 0 auto; 
+} 
+body{ 
+    background: violet; 
+} 
+.block{ 
+    display: none; 
+    width: 320px; 
+    height:380px ; 
+    border-radius: 20px; 
+    background: black; 
+    margin-top: 50px; 
+} 
+.btn1{ 
+color: white; 
+background: red; 
+width: 120px; 
+height: 40px; 
+font-size: 18px; 
+font-weight: 700px; 
+border-radius: 7px; 
+margin-top: 50px; 
+} 
+.btn2{ 
+    color: white; 
+    background: green; 
+    width: 120px; 
+    height: 40px; 
+    font-size: 18px; 
+    font-weight: 700px; 
+    border-radius: 7px; 
+    } 
+.block h1{ 
+  color: white;   
+  font-size: 23px; 
+  font-weight: 700px; 
+  text-decoration: none; 
+  margin: 40px; 
+} 
+.inp1{ 
+    width: 200px; 
+    height: 30px; 
+    background: white; 
+    font-size: 25px; 
+    font-weight: 100px; 
+    color: black; 
+    border-radius: 5px; 
+    border: none; 
+} 
+.inp2{   
+    width: 200px; 
+    height: 30px; 
+    background: white; 
+    font-size: 25px; 
+    font-weight: 100px; 
+    color: black; 
+    margin: 30px 0 0 0; 
+    border-radius: 5px; 
+    border: none; 
+} 
+.btn3{ 
+    color: white; 
+    background: green; 
+    width: 200px; 
+    height: 40px; 
+    font-size: 18px; 
+    font-weight: 700px; 
+    border-radius: 7px; 
+    margin-top: 30px; 
+    } 
+    .icons{ 
+        /* display: none   ; */ 
+        color: white; 
+        margin-top: 15px; 
+        margin-left: 230px; 
+        width: 30px; 
+        height: 30px; 
+    }
